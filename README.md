@@ -1,0 +1,3 @@
+# HibernateConCode
+Hibernate连接持久化重用代码
+这个repository存放的是hibernate框架的重用代码
